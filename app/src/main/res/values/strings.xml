@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TennisScoreKeeper</string>
+    <string name="player_a">Player A</string>
+    <string name="player_b">Player B</string>
+    <string name="add">Add Point</string>
+    <string name="points">Points</string>
+    <string name="games">Games</string>
+    <string name="sets">Sets</string>
+    <string name="reset">Reset</string>
+    <string name="ace">Ace</string>
+    <string name="add_ace">Add Ace</string>
+    <string name="ad_player_a">Ad for Player A</string>
+    <string name="ad_player_b">Ad for Player B</string>
+</resources>
